@@ -1,0 +1,15 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\bin\Debug\net6.0\AccesModifiersClassesBookLibrary.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\bin\Debug\net6.0\AccesModifiersClassesBookLibrary.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\bin\Debug\net6.0\AccesModifiersClassesBookLibrary.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\bin\Debug\net6.0\AccesModifiersClassesBookLibrary.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\bin\Debug\net6.0\AccesModifiersClassesBookLibrary.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.sourcelink.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\refint\AccesModifiersClassesBookLibrary.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\AccesModifiersClassesBookLibrary.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\AccesModifiersClassesBookLibrary\obj\Debug\net6.0\ref\AccesModifiersClassesBookLibrary.dll
